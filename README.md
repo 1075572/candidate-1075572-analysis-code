@@ -10,6 +10,8 @@ This repository holds the statistical analysis and figure generation code for an
 
 ## What this code does
 
+Each script has a header comment at the top explaining what it does, what inputs it expects, and what outputs it produces. Open any file to see this directly.
+
 The code in this repository covers two things.
 
 - **Statistical analysis.** Friedman tests on peak surface velocity in the time domain, and Skillings-Mack tests on spectral peak amplitudes in the frequency domain.
@@ -17,6 +19,6 @@ The code in this repository covers two things.
 
 Raw data acquisition and stimulus generation were performed in a custom MATLAB application (not included here).
 
-Claude, an AI assistant developed by Anthropic, was used to support the writing of code in this repository. Tasks included code drafting, debugging, and refining figure layouts. All scientific decisions, including experimental design, data interpretation, and analysis choices, were made by the author.
+Note: Claude, an AI assistant developed by Anthropic, was used to support the writing of code in this repository. Tasks included code drafting, debugging, and refining figure layouts. All scientific decisions, including experimental design, data interpretation, and analysis choices, were made by the author.
 
 
