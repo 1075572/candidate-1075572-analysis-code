@@ -17,8 +17,6 @@ The code in this repository covers two things.
 
 Raw data acquisition and stimulus generation were performed in a custom MATLAB application (not included here).
 
-## AI assistance
-
 Claude, an AI assistant developed by Anthropic, was used to support the writing of code in this repository. Tasks included code drafting, debugging, and refining figure layouts. All scientific decisions, including experimental design, data interpretation, and analysis choices, were made by the author.
 
 
